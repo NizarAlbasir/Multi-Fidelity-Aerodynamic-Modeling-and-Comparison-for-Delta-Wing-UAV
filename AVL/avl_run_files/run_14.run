@@ -1,0 +1,104 @@
+ ---------------------------------------------
+ Run case   1:  V= 18.0  a=  15.0  b=  0.0  flap=0.0
+
+ alpha        ->  alpha        =  15.0000
+ beta         ->  beta         =  0.0000
+ pb/2V        ->  pb/2V        =   0.0000
+ qc/2V        ->  qc/2V        =   0.0000
+ rb/2V        ->  rb/2V        =   0.0000
+ flap         ->  flap         =  0.0000
+ velocity     =   18.0000
+ density      =   1.2250
+ visc         =   1.5000E-05
+ mach         =   0.0000
+ cd0          =   0.0000
+ bank         =   0.0000
+ elevation    =   0.0000
+ heading      =   0.0000
+ Lunit        =   1.0000 m
+ Munit        =   1.0000 kg
+ Tunit        =   1.0000 s
+
+ ---------------------------------------------
+ Run case   2:  V= 18.0  a=  15.0  b=  5.0  flap=0.0
+
+ alpha        ->  alpha        =  15.0000
+ beta         ->  beta         =  5.0000
+ pb/2V        ->  pb/2V        =   0.0000
+ qc/2V        ->  qc/2V        =   0.0000
+ rb/2V        ->  rb/2V        =   0.0000
+ flap         ->  flap         =  0.0000
+ velocity     =   18.0000
+ density      =   1.2250
+ visc         =   1.5000E-05
+ mach         =   0.0000
+ cd0          =   0.0000
+ bank         =   0.0000
+ elevation    =   0.0000
+ heading      =   0.0000
+ Lunit        =   1.0000 m
+ Munit        =   1.0000 kg
+ Tunit        =   1.0000 s
+
+ ---------------------------------------------
+ Run case   3:  V= 18.0  a=  15.0  b= 10.0  flap=0.0
+
+ alpha        ->  alpha        =  15.0000
+ beta         ->  beta         =  10.0000
+ pb/2V        ->  pb/2V        =   0.0000
+ qc/2V        ->  qc/2V        =   0.0000
+ rb/2V        ->  rb/2V        =   0.0000
+ flap         ->  flap         =  0.0000
+ velocity     =   18.0000
+ density      =   1.2250
+ visc         =   1.5000E-05
+ mach         =   0.0000
+ cd0          =   0.0000
+ bank         =   0.0000
+ elevation    =   0.0000
+ heading      =   0.0000
+ Lunit        =   1.0000 m
+ Munit        =   1.0000 kg
+ Tunit        =   1.0000 s
+
+ ---------------------------------------------
+ Run case   4:  V= 18.0  a=  15.0  b= 15.0  flap=0.0
+
+ alpha        ->  alpha        =  15.0000
+ beta         ->  beta         =  15.0000
+ pb/2V        ->  pb/2V        =   0.0000
+ qc/2V        ->  qc/2V        =   0.0000
+ rb/2V        ->  rb/2V        =   0.0000
+ flap         ->  flap         =  0.0000
+ velocity     =   18.0000
+ density      =   1.2250
+ visc         =   1.5000E-05
+ mach         =   0.0000
+ cd0          =   0.0000
+ bank         =   0.0000
+ elevation    =   0.0000
+ heading      =   0.0000
+ Lunit        =   1.0000 m
+ Munit        =   1.0000 kg
+ Tunit        =   1.0000 s
+
+ ---------------------------------------------
+ Run case   5:  V= 18.0  a=  15.0  b= 20.0  flap=0.0
+
+ alpha        ->  alpha        =  15.0000
+ beta         ->  beta         =  20.0000
+ pb/2V        ->  pb/2V        =   0.0000
+ qc/2V        ->  qc/2V        =   0.0000
+ rb/2V        ->  rb/2V        =   0.0000
+ flap         ->  flap         =  0.0000
+ velocity     =   18.0000
+ density      =   1.2250
+ visc         =   1.5000E-05
+ mach         =   0.0000
+ cd0          =   0.0000
+ bank         =   0.0000
+ elevation    =   0.0000
+ heading      =   0.0000
+ Lunit        =   1.0000 m
+ Munit        =   1.0000 kg
+ Tunit        =   1.0000 s
